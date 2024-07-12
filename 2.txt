@@ -1,4 +1,2 @@
-my name is python
-reshma
-My name is python
-we are in main branch.
+My name is Python.
+we are in branch main.
